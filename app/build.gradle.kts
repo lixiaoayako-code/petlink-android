@@ -43,5 +43,4 @@ dependencies {
     // 高德地图 SDK（MavenCentral）
     implementation("com.amap.api:3dmap:10.0.600")
     implementation("com.amap.api:search:9.7.1")
-    implementation("com.amap.api:location:6.5.1")
 }
